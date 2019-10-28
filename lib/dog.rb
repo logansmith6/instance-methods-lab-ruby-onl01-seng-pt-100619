@@ -8,3 +8,4 @@ def sit
   "The Dog is sitting"
 
 end
+end 
